@@ -1,0 +1,6 @@
+{
+  "name": "CORE LINK Administrative Services",
+  "description": "CORE LINK Administrative Services (كور لينك للخدمات الإدارية) provides government paperwork follow-up, UAE visa services, Europe visa assistance, certified typing and document photocopying, and administrative services for businessmen in Ajman, UAE (DED License No. 140290).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
